@@ -1,0 +1,19 @@
+{
+  "name": "crudjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "testCrud"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeshDandawate/CrudJs.git"
+  },
+  "author": "Adesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeshDandawate/CrudJs/issues"
+  },
+  "homepage": "https://github.com/AdeshDandawate/CrudJs#readme"
+}
